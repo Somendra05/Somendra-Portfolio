@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Somendra-Portfolio/static/css/main.eab40314.css",
+    "main.js": "/Somendra-Portfolio/static/js/main.45fde147.js",
+    "static/js/453.b05d8aa5.chunk.js": "/Somendra-Portfolio/static/js/453.b05d8aa5.chunk.js",
+    "static/media/Character.png": "/Somendra-Portfolio/static/media/Character.aabebee02acb72b0e4d0.png",
+    "static/media/YellowCab.png": "/Somendra-Portfolio/static/media/YellowCab.503b2da101e2e3781ab0.png",
+    "static/media/StocksCluster.png": "/Somendra-Portfolio/static/media/StocksCluster.4108916686ca55fbe22e.png",
+    "static/media/FlightDelay.png": "/Somendra-Portfolio/static/media/FlightDelay.7f63beb78d9552ed354e.png",
+    "static/media/WineQuality.png": "/Somendra-Portfolio/static/media/WineQuality.7c7b7897813c5a65e991.png",
+    "static/media/Profile Pic.png": "/Somendra-Portfolio/static/media/Profile Pic.1791c3fd480ab0f739f8.png",
+    "static/media/bg-light.png": "/Somendra-Portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/Somendra-Portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "index.html": "/Somendra-Portfolio/index.html",
+    "main.eab40314.css.map": "/Somendra-Portfolio/static/css/main.eab40314.css.map",
+    "main.45fde147.js.map": "/Somendra-Portfolio/static/js/main.45fde147.js.map",
+    "453.b05d8aa5.chunk.js.map": "/Somendra-Portfolio/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eab40314.css",
+    "static/js/main.45fde147.js"
+  ]
+}
