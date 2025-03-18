@@ -27,8 +27,8 @@ function Project() {
                 <p> Explored NYC Yellow Taxi trip data to extract key insights on trip patterns, demand trends, and fare optimization. Conducted deep-dive EDA with interactive visualizations to identify high-demand locations, rush hour trends, and fleet distribution strategies. </p>
             </div>
             <div className="project">
-                <a href="" target="_blank" rel="noreferrer"><img src={FlightDelay} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="" target="_blank" rel="noreferrer"><h2>✈️ Flight Delay Analysis</h2></a>
+                <a href="https://usa-airlines-delay-dashboard.streamlit.app" target="_blank" rel="noreferrer"><img src={FlightDelay} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/Somendra05/USA-Airlines-Delay-Dashboard.git" target="_blank" rel="noreferrer"><h2>✈️ Flight Delay Analysis</h2></a>
                 <p> Built an interactive flight delay dashboard using MySQL & Streamlit, analyzing US airline and airport delays. Users can filter by airline and airport to uncover delay patterns and worst-performing routes. </p> 
                 <p> 🚀 Next: Developing a delay prediction system using historical data & weather insights with a Flask API for real-time predictions. </p>
             </div>
